@@ -1,0 +1,562 @@
+2025-08-30 21:11:57 [INFO] bot.main: Инициализация БД завершена.
+2025-08-30 21:11:59 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:12:01 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:12:01 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-30 21:12:01 [INFO] bot.main: Запускаю polling…
+2025-08-30 21:12:01 [INFO] aiogram.dispatcher: Start polling
+2025-08-30 21:12:01 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-30 21:12:06 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-30 21:12:06 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-30 21:12:11 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-30 21:12:11 [WARNING] aiogram.dispatcher: Sleep for 1.416818 seconds and try again... (tryings = 1, bot id = 7657315360)
+2025-08-30 21:12:18 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-30 21:12:18 [WARNING] aiogram.dispatcher: Sleep for 1.960649 seconds and try again... (tryings = 2, bot id = 7657315360)
+2025-08-30 21:12:25 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-08-30 21:12:25 [WARNING] aiogram.dispatcher: Sleep for 2.392427 seconds and try again... (tryings = 3, bot id = 7657315360)
+2025-08-30 21:12:38 [INFO] aiogram.dispatcher: Connection established (tryings = 4, bot id = 7657315360)
+2025-08-30 21:12:42 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-30 21:12:42 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-30 21:12:42 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-30 21:12:42 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-30 21:12:44 [INFO] bot.main: Инициализация БД завершена.
+2025-08-30 21:12:46 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:12:48 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:12:48 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-30 21:12:48 [INFO] bot.main: Запускаю polling…
+2025-08-30 21:12:48 [INFO] aiogram.dispatcher: Start polling
+2025-08-30 21:12:49 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-30 21:13:01 [INFO] aiogram.event: Update id=532980286 is handled. Duration 427 ms by bot id=7657315360
+2025-08-30 21:13:02 [INFO] aiogram.event: Update id=532980287 is handled. Duration 270 ms by bot id=7657315360
+2025-08-30 21:13:04 [INFO] aiogram.event: Update id=532980288 is handled. Duration 157 ms by bot id=7657315360
+2025-08-30 21:13:10 [INFO] aiogram.event: Update id=532980289 is handled. Duration 131 ms by bot id=7657315360
+2025-08-30 21:13:39 [INFO] aiogram.event: Update id=532980290 is handled. Duration 136 ms by bot id=7657315360
+2025-08-30 21:13:43 [INFO] aiogram.event: Update id=532980291 is handled. Duration 254 ms by bot id=7657315360
+2025-08-30 21:13:45 [INFO] aiogram.event: Update id=532980292 is handled. Duration 169 ms by bot id=7657315360
+2025-08-30 21:13:51 [INFO] aiogram.event: Update id=532980293 is handled. Duration 128 ms by bot id=7657315360
+2025-08-30 21:13:56 [INFO] aiogram.event: Update id=532980294 is handled. Duration 236 ms by bot id=7657315360
+2025-08-30 21:13:57 [INFO] aiogram.event: Update id=532980295 is handled. Duration 154 ms by bot id=7657315360
+2025-08-30 21:13:58 [INFO] aiogram.event: Update id=532980296 is handled. Duration 126 ms by bot id=7657315360
+2025-08-30 21:14:00 [INFO] aiogram.event: Update id=532980297 is handled. Duration 198 ms by bot id=7657315360
+2025-08-30 21:14:02 [INFO] aiogram.event: Update id=532980298 is handled. Duration 137 ms by bot id=7657315360
+2025-08-30 21:14:04 [INFO] aiogram.event: Update id=532980299 is handled. Duration 143 ms by bot id=7657315360
+2025-08-30 21:14:06 [INFO] aiogram.event: Update id=532980300 is handled. Duration 163 ms by bot id=7657315360
+2025-08-30 21:14:08 [INFO] aiogram.event: Update id=532980301 is handled. Duration 139 ms by bot id=7657315360
+2025-08-30 21:14:12 [INFO] aiogram.event: Update id=532980302 is handled. Duration 133 ms by bot id=7657315360
+2025-08-30 21:14:15 [INFO] aiogram.event: Update id=532980303 is not handled. Duration 2 ms by bot id=7657315360
+2025-08-30 21:14:15 [ERROR] aiogram.event: Cause exception while process update id=532980303 by bot id=7657315360
+AttributeError: module 'db' has no attribute 'get_subscription_period_by_id'
+Traceback (most recent call last):
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\bot\shop.py", line 68, in period_chosen
+    row = await db.get_subscription_period_by_id(period_id)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'db' has no attribute 'get_subscription_period_by_id'. Did you mean: 'get_subscription_periods'?
+2025-08-30 21:20:24 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-30 21:20:24 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-30 21:20:24 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-30 21:20:24 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-30 21:20:26 [INFO] bot.main: Инициализация БД завершена.
+2025-08-30 21:20:28 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:20:30 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-30 21:20:30 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-30 21:20:30 [INFO] bot.main: Запускаю polling…
+2025-08-30 21:20:30 [INFO] aiogram.dispatcher: Start polling
+2025-08-30 21:20:31 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-30 21:20:35 [INFO] aiogram.event: Update id=532980304 is handled. Duration 417 ms by bot id=7657315360
+2025-08-30 21:23:17 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-30 21:23:17 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-30 21:23:28 [INFO] aiogram.dispatcher: Connection established (tryings = 1, bot id = 7657315360)
+2025-08-30 21:24:04 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-30 21:24:04 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-30 21:24:04 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-30 21:24:04 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 09:57:27 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 09:57:29 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 09:57:31 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 09:57:31 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 09:57:31 [INFO] bot.main: Запускаю polling…
+2025-08-31 09:57:31 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 09:57:31 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 09:57:48 [INFO] aiogram.event: Update id=532980305 is not handled. Duration 2 ms by bot id=7657315360
+2025-08-31 09:57:48 [ERROR] aiogram.event: Cause exception while process update id=532980305 by bot id=7657315360
+TypeError: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\bot\payments\yookassa.py", line 18, in choose_yookassa
+    f"Сумма к оплате: <b>{amount:.2f} ₽</b>\n"
+                         ^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-08-31 09:57:52 [INFO] aiogram.event: Update id=532980306 is not handled. Duration 2 ms by bot id=7657315360
+2025-08-31 09:57:52 [ERROR] aiogram.event: Cause exception while process update id=532980306 by bot id=7657315360
+TypeError: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\bot\payments\telegram_stars.py", line 18, in choose_stars
+    f"Сумма к оплате: <b>{amount:.2f} ₽</b>\n"
+                         ^^^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-08-31 09:58:08 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 09:58:08 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 09:58:08 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 09:58:08 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:10:31 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 10:10:33 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:10:35 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:10:35 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 10:10:35 [INFO] bot.main: Запускаю polling…
+2025-08-31 10:10:35 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 10:10:36 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:10:44 [INFO] aiogram.event: Update id=532980307 is handled. Duration 623 ms by bot id=7657315360
+2025-08-31 10:10:45 [INFO] aiogram.event: Update id=532980308 is handled. Duration 314 ms by bot id=7657315360
+2025-08-31 10:10:50 [INFO] aiogram.event: Update id=532980309 is handled. Duration 346 ms by bot id=7657315360
+2025-08-31 10:14:00 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 10:14:00 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 10:14:00 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 10:14:00 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:14:02 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 10:14:04 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:14:06 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:14:06 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 10:14:06 [INFO] bot.main: Запускаю polling…
+2025-08-31 10:14:06 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 10:14:07 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:14:09 [INFO] aiogram.event: Update id=532980310 is handled. Duration 639 ms by bot id=7657315360
+2025-08-31 10:14:11 [INFO] aiogram.event: Update id=532980311 is handled. Duration 479 ms by bot id=7657315360
+2025-08-31 10:14:11 [INFO] aiogram.event: Update id=532980312 is not handled. Duration 2 ms by bot id=7657315360
+2025-08-31 10:14:11 [ERROR] aiogram.event: Cause exception while process update id=532980312 by bot id=7657315360
+TypeError: add_payment() got an unexpected keyword argument 'status'
+Traceback (most recent call last):
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\bot\payments\yoomoney.py", line 177, in choose_yoomoney
+    payment_id = await db.add_payment(
+                       ~~~~~~~~~~~~~~^
+        user_id=callback.from_user.id,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        extra=extra,
+        ^^^^^^^^^^^^
+    )
+    ^
+TypeError: add_payment() got an unexpected keyword argument 'status'
+2025-08-31 10:22:19 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 10:22:19 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 10:22:19 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 10:22:19 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:22:21 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 10:22:23 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:22:25 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:22:25 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 10:22:25 [INFO] bot.main: Запускаю polling…
+2025-08-31 10:22:25 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 10:22:26 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:22:54 [INFO] aiogram.event: Update id=532980313 is handled. Duration 738 ms by bot id=7657315360
+2025-08-31 10:26:19 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 10:26:19 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 10:26:19 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 10:26:20 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:26:22 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 10:26:24 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:26:26 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:26:26 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 10:26:26 [INFO] bot.main: Запускаю polling…
+2025-08-31 10:26:26 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 10:26:26 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:26:30 [INFO] aiogram.event: Update id=532980314 is handled. Duration 771 ms by bot id=7657315360
+2025-08-31 10:26:32 [INFO] aiogram.event: Update id=532980315 is handled. Duration 330 ms by bot id=7657315360
+2025-08-31 10:26:33 [INFO] aiogram.event: Update id=532980316 is handled. Duration 342 ms by bot id=7657315360
+2025-08-31 10:31:56 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 10:31:56 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 10:31:56 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 10:31:56 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:31:58 [INFO] bot.main: Инициализация БД завершена.
+2025-08-31 10:32:00 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:32:02 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-08-31 10:32:02 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-08-31 10:32:02 [INFO] bot.main: Запускаю polling…
+2025-08-31 10:32:02 [INFO] aiogram.dispatcher: Start polling
+2025-08-31 10:32:03 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-08-31 10:32:05 [INFO] aiogram.event: Update id=532980317 is handled. Duration 619 ms by bot id=7657315360
+2025-08-31 10:32:07 [INFO] aiogram.event: Update id=532980318 is handled. Duration 560 ms by bot id=7657315360
+2025-08-31 10:32:08 [INFO] aiogram.event: Update id=532980319 is not handled. Duration 8 ms by bot id=7657315360
+2025-08-31 10:32:08 [ERROR] aiogram.event: Cause exception while process update id=532980319 by bot id=7657315360
+OperationalError: no such column: extra
+Traceback (most recent call last):
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\bot\payments\yoomoney.py", line 226, in choose_yoomoney
+    await _db.execute(
+    ...<2 lines>...
+    )
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiosqlite\core.py", line 183, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiosqlite\core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "D:\marzban\bot\V4 my\.venv\Lib\site-packages\aiosqlite\core.py", line 105, in run
+    result = function()
+sqlite3.OperationalError: no such column: extra
+2025-08-31 10:32:29 [INFO] aiogram.dispatcher: Polling stopped
+2025-08-31 10:32:29 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-31 10:32:29 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-08-31 10:32:30 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:23:37 [INFO] bot.main: Инициализация БД завершена.
+2025-09-01 09:23:39 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:23:41 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:23:41 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-09-01 09:23:41 [INFO] bot.main: Запускаю polling…
+2025-09-01 09:23:41 [INFO] aiogram.dispatcher: Start polling
+2025-09-01 09:23:42 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:25:40 [INFO] aiogram.event: Update id=532980356 is handled. Duration 645 ms by bot id=7657315360
+2025-09-01 09:25:41 [INFO] aiogram.event: Update id=532980357 is handled. Duration 449 ms by bot id=7657315360
+2025-09-01 09:25:43 [INFO] aiogram.event: Update id=532980358 is handled. Duration 345 ms by bot id=7657315360
+2025-09-01 09:25:53 [INFO] aiogram.event: Update id=532980359 is handled. Duration 168 ms by bot id=7657315360
+2025-09-01 09:25:55 [INFO] aiogram.event: Update id=532980360 is handled. Duration 331 ms by bot id=7657315360
+2025-09-01 09:25:56 [INFO] aiogram.event: Update id=532980361 is handled. Duration 351 ms by bot id=7657315360
+2025-09-01 09:27:49 [INFO] aiogram.dispatcher: Polling stopped
+2025-09-01 09:27:49 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-01 09:27:49 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-09-01 09:27:49 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:27:51 [INFO] bot.main: Инициализация БД завершена.
+2025-09-01 09:27:53 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:27:55 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:27:55 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-09-01 09:27:55 [INFO] bot.main: Запускаю polling…
+2025-09-01 09:27:55 [INFO] aiogram.dispatcher: Start polling
+2025-09-01 09:27:56 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:27:57 [INFO] aiogram.event: Update id=532980362 is handled. Duration 657 ms by bot id=7657315360
+2025-09-01 09:28:00 [INFO] aiogram.event: Update id=532980363 is handled. Duration 334 ms by bot id=7657315360
+2025-09-01 09:28:00 [INFO] aiogram.event: Update id=532980364 is handled. Duration 316 ms by bot id=7657315360
+2025-09-01 09:28:39 [INFO] aiogram.dispatcher: Polling stopped
+2025-09-01 09:28:39 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-01 09:28:39 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-09-01 09:28:40 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:28:42 [INFO] bot.main: Инициализация БД завершена.
+2025-09-01 09:28:44 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:28:46 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:28:46 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-09-01 09:28:46 [INFO] bot.main: Запускаю polling…
+2025-09-01 09:28:46 [INFO] aiogram.dispatcher: Start polling
+2025-09-01 09:28:46 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:28:52 [INFO] aiogram.event: Update id=532980365 is handled. Duration 566 ms by bot id=7657315360
+2025-09-01 09:28:54 [INFO] aiogram.event: Update id=532980366 is handled. Duration 371 ms by bot id=7657315360
+2025-09-01 09:28:55 [INFO] aiogram.event: Update id=532980367 is handled. Duration 471 ms by bot id=7657315360
+2025-09-01 09:31:35 [INFO] aiogram.dispatcher: Polling stopped
+2025-09-01 09:31:35 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-01 09:31:35 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-09-01 09:31:36 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:31:38 [INFO] bot.main: Инициализация БД завершена.
+2025-09-01 09:31:40 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:31:42 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-01 09:31:42 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-09-01 09:31:42 [INFO] bot.main: Запускаю polling…
+2025-09-01 09:31:42 [INFO] aiogram.dispatcher: Start polling
+2025-09-01 09:31:42 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-01 09:31:46 [INFO] aiogram.event: Update id=532980368 is handled. Duration 574 ms by bot id=7657315360
+2025-09-01 09:31:47 [INFO] aiogram.event: Update id=532980369 is handled. Duration 500 ms by bot id=7657315360
+2025-09-01 09:31:48 [INFO] aiogram.event: Update id=532980370 is handled. Duration 313 ms by bot id=7657315360
+2025-09-01 09:38:13 [INFO] aiogram.dispatcher: Polling stopped
+2025-09-01 09:38:13 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-01 09:38:13 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-09-01 09:38:13 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-02 09:14:00 [INFO] bot.main: Инициализация БД завершена.
+2025-09-02 09:14:02 [ERROR] root: ❌ Ошибка получения токена: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-02 09:14:04 [ERROR] root: ❌ Ошибка подключения к Marzban API: Cannot connect to host 127.0.0.1:8000 ssl:default [Удаленный компьютер отклонил это сетевое подключение]
+2025-09-02 09:14:04 [INFO] bot.main: Статус Marzban: NO CONNECTION
+2025-09-02 09:14:04 [INFO] bot.main: Запускаю polling…
+2025-09-02 09:14:04 [INFO] aiogram.dispatcher: Start polling
+2025-09-02 09:14:05 [INFO] aiogram.dispatcher: Run polling for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
+2025-09-02 09:14:06 [INFO] aiogram.event: Update id=532980371 is handled. Duration 559 ms by bot id=7657315360
+2025-09-02 09:35:47 [INFO] aiogram.dispatcher: Polling stopped
+2025-09-02 09:35:47 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-02 09:35:47 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7657315360)
+2025-09-02 09:35:48 [INFO] aiogram.dispatcher: Polling stopped for bot @haku_booster_bot id=7657315360 - 'Haku Booster'
